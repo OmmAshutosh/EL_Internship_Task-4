@@ -103,7 +103,7 @@ Allowing SSH (port 22) enables secure remote administration.
 
 ## 📚 References
 ```bash
-- [Microsoft Firewall Docs]([url](https://nmap.org/))
-- [UFW Manual]([url](https://help.ubuntu.com/community/UFW))
-- [Nmap Port Scanner]([url](https://nmap.org/))
+- [Microsoft Firewall Docs](https://nmap.org/)
+- [UFW Manual](https://help.ubuntu.com/community/UFW))
+- [Nmap Port Scanner](https://nmap.org/)
 
